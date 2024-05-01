@@ -5,7 +5,7 @@ const Thala = () => {
   const thala_gif =
     "https://raw.githubusercontent.com/Harry-Hunter23/tutorial/main/src/assets/dhoni-funny.gif";
   const thala_audio = new Audio(
-    "https://raw.githubusercontent.com/Harry-Hunter23/tutorial/main/src/assets/Bole-Jo-Koyal-Bago-Me-[AudioTrimmer.com].mp3"
+    "https://raw.githubusercontent.com/Harry-Hunter23/tutorial/main/src/assets/soundbro.mp3"
   );
 
   const [inputValue, setInputValue] = useState("");
